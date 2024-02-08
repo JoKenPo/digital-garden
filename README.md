@@ -1,1 +1,1 @@
-# Digiral Garde
+# Digital Garden
