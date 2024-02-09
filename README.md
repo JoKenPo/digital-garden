@@ -1,4 +1,4 @@
-# 🪴 Digital Garden
+# 🌱 Digital Garden
 
 This project is a Digital Garden that I will use to centralize all my studies and notes.
 
