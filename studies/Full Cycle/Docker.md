@@ -9,3 +9,9 @@ OS have a lot of process.
 **CGroups** control all the resources and it's a way to isolate the resources;
 Ex: _memory = 500mb_
 **File System** way of replicate the app without replicate dependencies .
+
+
+## Desafio Node
+**Correção:** Lucian Tavares
+
+
