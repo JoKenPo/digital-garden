@@ -31,7 +31,7 @@ cheaper
 	**Edmond**: Chairman and Chief Executive of multinational company
 	**John Cox**: Independent publisher consulter
 
-- 2 nationality:
+- 2 his nationality:
 	**Edmond**: Lebanese
 	**John Cox**: UK based, London
 
@@ -41,7 +41,7 @@ cheaper
 
 - 4 amount of air travel:
 	**Edmond**: 60% of the year
-	**John Cox**: between 80000 and 100000
+	**John Cox**: around 80000 and 100000 miles
 
 - choice of class:
 	**Edmond**: First class
@@ -52,17 +52,46 @@ cheaper
 	**John Cox**: Star Alliance
 
 - likes:
-	Edmond: The extraspecial treatment all the premium services from the first class
-	John Cox: Pay the minor possible for the services
+	**Edmond**: The extra special treatment all the premium services from the first class
+	**John Cox**: Pay the minor possible for the services
 	
 - dislikes:
-	Edmond: Staff then have casual attitude and problems and delays on the airlines
-	John Cox: Pay to expensive airlines, hotels
+	**Edmond**: Staff then have casual attitude and problems and delays on the airlines
+	**John Cox**: Pay to expensive airlines, hotels
 	
 - travel to airport:
-	Edmond: Personal driver from the airline
-	John Cox: Take bus
+	**Edmond**: Personal driver from the airline
+	**John Cox**: Take bus
 	
 - hotel requirement:
-	Edmond: First class
-	John Cox: Good internet, good laundry service
+	**Edmond**: First class
+	**John Cox**: Good internet, good laundry service
+
+---------
+### 2024.02.27
+
+skip
+room: we can used to say about spaces !!!
+luggage = baggage
+motorway = freeway
+timetable = schedule
+bill = check
+flooded = enchente, inundado
+#### Listen
+
+**traveller 1**: a. and d.
+**traveller 2**: c. and e. and g.
+**traveller 3**: b. and f. and h. (eigi)
+
+Location
+links
+close to airport
+close to office
+technology
+Internet
+Business centre
+Translation services
+Facilities
+
+
+
