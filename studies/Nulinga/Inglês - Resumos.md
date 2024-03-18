@@ -84,14 +84,71 @@ flooded = enchente, inundado
 **traveller 3**: b. and f. and h. (eigi)
 
 Location
-links
-close to airport
-close to office
-technology
+Links
+Close to the airport
+Close to the office
+Technology
 Internet
 Business centre
 Translation services
 Facilities
 
+--------------------
+
+savvy = sávi
+Eduardo is a technology savvy
+
+shuttle service = bus
+
+
+savvy *true*
+adds value *false*
+takes *true*
+daily basis *false*
+shuttle service *true*
+drops its rates
+
+HE DOESN'T MENTIONED
+tech
+env policy
+healthy eating
+gym facilities
+WATER CONSERV
+LOW-ENERGY LIGHTING
+HIGH SPEED INTERNET
+TV ON DEMAND
+LOWER-COST PHONE CALLS
+
+mainly
+bleisure
+commuting = time we spend commuting (travel to work)
+cultural policy of the company
+
+time table = schedule
+
+present simple to say about the future
+
+--------------------
+
+*present continuous:* happening in the present
+*present simple:* regular situation
+
+verb to be, the question inverts
+
+07|
+a. I will get/arrive late at the meeting
+b. will sell my bike
+c. leaves at 20 o'clock
+d. 'm going by skateboard
+e.
+f. but im going to choose the 10 p.m flight
+g. are going to be there tomorrow
+h. we will watch that movie
+
+-------------------
+
+moment = will
+was (past) -> is (future)
+new course
 
 
