@@ -151,4 +151,90 @@ moment = will
 was (past) -> is (future)
 new course
 
+-------------
 
+1-
+purpose: make a pointment to show a new collection
+result: next wednesday two o clock
+
+2-
+purpose: reschedule the pointment to the morning from next day
+result: uncertaly
+
+
+I'd like to make an appointment
+day would *suit* you (SUT)
+how about *wednesday* (WENESDAY)
+could you make it
+let me check the diary
+What about
+
+Ms (MIS)
+Hurry (RURI)
+
+Hello! I'm afraid she is engaged, will you hold
+but something's come up
+I'd like to meet her preferably 
+could she call me back 
+02078553814 and im in the room 711
+
+ON monday/tuesday
+Who im speaking with
+1st
+2nd
+3rd
+4th ...
+twenty SECOND
+2 block
+
+AT night
+mistakes = inconvenient 
+close the contract
+GET in contact
+
+summary
+
+-----------------
+GET CONTACT
+
+#### Apologizing letter
+Jason,
+
+We had the knowledge ~~then~~ **THAT** you ~~have~~ **had** complications with your ~~travel~~ **trip** and we want to apologize for your bad experience.
+
+Together with the airline company, we admit ~~then~~ the problem with ~~your~~ **the** baggage was a problem with our baggage transport. Our process of baggage transport got confused **with** where the baggages would be checked and **it** results on the delay~~ed~~.
+
+As a way to compensated your stress, we offer a dis**c**count to your next __travel__ **trip** with us.
+
+We already started a new training and a new process ~~to don't happening~~ again and get more easy to our employees know what to do in this situation.
+
+We hope that you understand and then you can come back to another travel with us.
+
+Regards,
+Eduardo Almeida
+Account Manager
+
+BBT Company
+
+
+#### Correction
+Jason,
+
+We had the knowledge that you had complications with your trip and we want to apologize for your bad experience.
+
+Together with the airline company, we admit the problem with the baggage was a problem with our baggage transport. Our process of baggage transport got confused with where the baggages would be checked, and it resulted on the delay.
+
+As a way to compensated your stress, we offer a disccount to your next trip with us.
+
+We already started a new training and a new process so it won't happen again, and make it easier to our employees to know what to do in this situation.
+
+We hope that you understand and then you can come back to another trip with us.
+
+Regards,
+Eduardo Almeida
+Account Manager
+
+BBT Company
+
+--------------
+side point 
