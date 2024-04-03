@@ -238,3 +238,42 @@ BBT Company
 
 --------------
 side point 
+### End of unit 7
+3|
+Place: Italy, Germany, B
+Hotel: Hostel and a Hotel in Germany
+Kind of room and bed: 
+Activities: Cultural activities, 
+Budged: 20k
+
+
+1|
+based on 
+
+4|
+Around 8h to 7h
+9pm from Germany
+15 days
+
+2|
+parents 
+lent our baggeges
+
+
+### Complaint Email
+
+Greetings,
+
+My name is Eduardo Almeida and I **AM** sending this email because I had a bad experience with your agency on our last trip.
+
+Starting with the delayed flight departing from São Paulo. We wait**ed** around 2 hours in the airport and nobody knew why.
+After, we got **to** know that the itinerary was different from what we had confirmed.
+
+Arriving there, we had to pay additional fees for the delay that was unexpected.
+
+We got a cancellation too, on the massage ~~from~~  **on** the last day that we wanted so much.
+
+So, we want a minimum of responsiveness from your agency and a way to refund what we lost in this trip. 
+
+Regards,
+Eduardo Almeida
