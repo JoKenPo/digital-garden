@@ -277,3 +277,52 @@ So, we want a minimum of responsiveness from your agency and a way to refund wha
 
 Regards,
 Eduardo Almeida
+
+------------
+dealing with differences
+outside the box
+as time goes by things can change
+~~have~~ *there are* a lot of ways to influence
+
+**WORDS**
+distinguishes
+psychiatrist
+excluded
+get advantage of
+illegal
+go-to: the best person, the guy , good adjetive
+to make sb (somebody) tick: motivation of a person
+to strive for: fight for with great efforts
+at will
+
+------
+1 How would you define culture? Is it a static or dynamic concept? Explain your thoughts.
+
+How much do you think consumers are influenced by the culture they live in?
+
+What is your interpretation of “_how brands resonate with the world they exist in_”?
+
+Do you think that culture is complex? Messy? Unpredictable? Irrational? Why? Account for your answers.
+
+Notes:
+Social network, news, people we follow
+2 types
+**bad culture mindset**
+fancy, logical, designed, ideology, essence of fear
+
+**good culture mindset**
+equal system, many parts connected,
+"natural"
+
+what culture its?
+
+psyc hospital phd
+organization culture
+
+leadership
+corporate live or die
+
+understand the culture
+
+stories blood veins
+key of good culture mindset
