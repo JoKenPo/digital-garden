@@ -308,7 +308,8 @@ Notes:
 Social network, news, people we follow
 2 types
 **bad culture mindset**
-fancy, logical, designed, ideology, essence of fear
+fancy missions, logical, designed, ideology, essence of fear
+designed something
 
 **good culture mindset**
 equal system, many parts connected,
@@ -316,13 +317,63 @@ equal system, many parts connected,
 
 what culture its?
 
-psyc hospital phd
+psyc hospital phd antropology
 organization culture
 
 leadership
+
 corporate live or die
 
 understand the culture
 
+culture its not static
+
 stories blood veins
 key of good culture mindset
+
+-----------------------
+
+make somebody tick = motivate
+warned 
+get fired = demitido
+
+stay = fisicly states
+keep = mantained
+Stay Keep a good quality
+
+apresenting HIS point of view
+
+stress out
+I can BUILD a better network
+
+-------------------------------
+
+talk about business
+
+behavior 
+
+it's something they likely have in common
+
+h = eige
+
+to lose a bad habit
+to lost XXXXX lost is past
+
+
+----------------
+make your beliveble more visable
+
+inside out 
+
+~~any try~~ = any attempt 
+
+should **ADVICE**
+must **STRONG ADVICE**
+have too ITS NOT OBLIGATION
+
+* *We can use SHOULD and SHOULDN'T to give or ask for advice.*
+- *We often use should after the verbs THINK and SUGGEST.*
+- *We use the MUST or MUSTN'T to give strong advice.*
+- *We use HAVE TO to show that the obligation comes from another person or institution, not the speaker.*
+
+underestimate
