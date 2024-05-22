@@ -377,3 +377,31 @@ have too ITS NOT OBLIGATION
 - *We use HAVE TO to show that the obligation comes from another person or institution, not the speaker.*
 
 underestimate
+
+
+common sense
+
+Morning: Join in the tour of facilities, 
+Lunchtime: Meeting with Jacinta and the other person Dele Pathel
+Afternoon: Introduce to the team
+
+1 welcome
+2 meet you
+3 journey
+4 any trouble to
+5 let me take
+6 get you
+7 runs through
+8 thought you could
+9 we will catch up again
+10 you'll get a chance 
+11 make sure
+12 don't worry about 
+
+hang onto = continuar carregando
+
+do you have ID
+you need the ID to move around // to go through // walk around
+every day at midday//noon
+
+invite
