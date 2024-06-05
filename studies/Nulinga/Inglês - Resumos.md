@@ -405,3 +405,67 @@ you need the ID to move around // to go through // walk around
 every day at midday//noon
 
 invite
+invitation
+
+hill = rio
+on
+
+walk along = andando junto
+
+on waverley street
+
+go through = vai até o fim
+next to
+
+bus stop
+
+### HOME WORK
+
+Czech = chque
+
+1 **false** University Stundent studing inglish
+2 **true** 
+3 **false** Spielbergs film crew, producter invite him 
+4 **false** dont came
+5 **true** 
+
+1 sixteen times and sometimes, sometimes its for Dagmara insecurity.
+2 
+3 
+4 2 parts, she trips and the scenes couldnt be used on movie
+5 yes, and invites her to work in your next movie
+6 because of HER family
+
+-------------------
+
+considered
+what they are waiting for **WRONG**
+expectation
+aware
+
+at 9 am/o clock
+with time we **NEVER** use **THE**
+
+as brazilian (people) we can arrive late
+
+try to be on **TIME**
+to be **pontual**
+
+we **have** 1 hour of lunch
+
+you will be responsible **for**
+
+when we **come** from ~~the~~ lunch
+THE we use when we wants to be specific
+
+to ~~stay~~ **KEEP** with **THESE**
+to **STICK** to
+
+lunch x dinner
+lunch = fast meal
+dinner = complete table, at night
+
+out 
+
+gave birth in Brazil
+I **HAVE** never ~~goes~~ to **VISITED**
