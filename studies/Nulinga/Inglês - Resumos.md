@@ -469,3 +469,31 @@ out
 
 gave birth in Brazil
 I **HAVE** never ~~goes~~ to **VISITED**
+
+--------------------------
+
+environmental policies
+their services
+fifity fifity = both
+
+expensives, complicate, take along time
+data, story telling, using
+
+status quo
+
+Pool
+heat pumps, solar PV,
+
+beach club
+with water meter, research
+flush, aerator, fix leaks
+
+waterpark bali
+separation the types of trahs with comunication
+
+strain = part of a river
+ongoing and coming
+already separate
+
+freon = botijão de gás
+aerators = add air in the waters
