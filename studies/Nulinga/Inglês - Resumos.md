@@ -487,9 +487,11 @@ heat pumps, solar PV,
 beach club
 with water meter, research
 flush, aerator, fix leaks
+re-use water from toilets to the gardens
 
 waterpark bali
-separation the types of trahs with comunication
+separation the types of trashes with communication
+less trashes to the landfills
 
 strain = part of a river
 ongoing and coming
@@ -497,3 +499,46 @@ already separate
 
 freon = botijão de gás
 aerators = add air in the waters
+
+-----------------
+
+thriving = traivin
+tipping point = tiping point
+alternative = auturnative
+defnitely = definili
+affordable = efordable
+althought = audou
+allow = aló
+pledge = plédi
+
+strain = force
+
+tipping point = decision point
+
+pledge = a serious promise
+
+**showcase** can be a verb
+
+measure and monitoring resource consumption
+accurate information, data, storytelling
+
+###### Problems:
+energy consuming
+water consuming
+landfills, a lot of trashes
+
+###### Corrections:
+The ~~consuming~~ **consumption** of resource
+The solution ~~from~~ **for** water consumption
+He cuts the ~~spends~~ **expenses**
+He works with ~~recycle~~ **recycling**
+It is a ~~seriously~~ **serious** situation
+To pass the new know **knowledge**
+
+*How important it is*: you can use **Importance**
+
+
+wear = uear
+mph miles per hour
+
+subject = assunto
