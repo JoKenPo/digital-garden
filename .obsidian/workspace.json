@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c751da6f17159b0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f1d31ebafaa6333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0392893757dbc0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "studies/Full Cycle/DDD - Domain Driven Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96b473e416d0b0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1067240c1e6a1627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8caf02c4e87e2fc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47b9f2062805a221",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8628608f2624b6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1a0d2b4beee2ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b4762483688555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d26b9e2b63eb6d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "studies/Full Cycle/DDD - Domain Driven Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d18327fbeadcbec5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "studies/Full Cycle/DDD - Domain Driven Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b1612cae4cad10a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e56ebecd9510d62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "studies/Full Cycle/DDD - Domain Driven Design.md"
+              }
+            }
+          },
+          {
+            "id": "deeb321dcbb3cb71",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "d0392893757dbc0f",
+  "lastOpenFiles": [
+    "studies/Full Cycle/Solid.md",
+    "studies/Full Cycle/DDD - Domain Driven Design.md",
+    "studies/Full Cycle/Docker.md",
+    "studies/Nulinga/Inglês - Resumos.md",
+    "studies/Full Cycle/Kubernetes.md",
+    "studies/Full Cycle/Git and Gitflow.md",
+    "README.md"
+  ]
+}
