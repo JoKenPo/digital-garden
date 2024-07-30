@@ -560,3 +560,25 @@ whistleblower = dedo duro
 guy WENT to jail
 
 livre been
+
+--------------------
+
+eviriomental friendly
+people GIVEN
+held
+taught
+thrown   <-
+*were*
+*is*
+*are*
+
+1 Brixton 2 power station of solar energy
+2 Deventer  4 teach how to fix
+3 Oxford 3 almost expired food take to poor people of community
+4 Many Transition towns 1 festivals to know each other 
+
+**passive voice**
+**past participle** 
+by
+
+b c e g i
